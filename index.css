@@ -9,6 +9,7 @@ body{
         background-size: cover;
         text-align: center;
         font-family:'Finger Paint', cursive;
+        
     }
     :root {
         --orange: #F2C14E;
@@ -16,7 +17,7 @@ body{
     }
 
 .container{
-    padding:40px;
+    padding:2%;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -27,7 +28,8 @@ body{
     width:450px;
     display: flex;
     flex-wrap: wrap;
-    margin-top: 40px;
+    margin-top: 1%;
+    place-content: center;
 }
 h1{
     color:rgb(14, 136, 230);
