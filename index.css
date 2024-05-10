@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./img/tac\ toe.jpg);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(tac\ toe.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         text-align: center;
